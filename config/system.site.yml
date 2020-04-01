@@ -1,0 +1,14 @@
+uuid: 69e82267-b18e-4f45-8ff7-d3e922872063
+name: emman-drupal-commerce
+mail: emmanuel.hallarsis@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
